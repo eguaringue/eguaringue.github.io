@@ -188,7 +188,7 @@
 
 		background: #000000 url("images/bg.png") bottom left; /* ALTERADO de bg.jpg para bg.png */
 		background-repeat: repeat-x;
-		height: 200%;
+		height: 100%;
 		left: 0;
 		opacity: 1;
 		position: fixed;
@@ -260,7 +260,7 @@
 	}
 
 	#bg {
-		background-size: 3000px auto;
+		background-size: 2250px auto;
 		width: 6750px;
 	}
 
